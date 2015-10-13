@@ -1,0 +1,12 @@
+[root]
+name = "primes"
+version = "0.1.0"
+dependencies = [
+ "primeiter 0.1.0 (git+git://github.com/benaryorg/rust-prime_iter.git)",
+]
+
+[[package]]
+name = "primeiter"
+version = "0.1.0"
+source = "git+git://github.com/benaryorg/rust-prime_iter.git#853d8066624cecc93e815c5784d16826a699d0c6"
+

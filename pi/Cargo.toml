@@ -1,0 +1,8 @@
+[package]
+name = "pi"
+version = "0.1.0"
+authors = ["benaryorg <binary@benary.org>"]
+
+[dependencies]
+threadpool = "0.1.4"
+

@@ -1,0 +1,8 @@
+[package]
+name = "primes"
+version = "0.1.0"
+authors = ["benaryorg <binary@benary.org>"]
+
+[dependencies.primeiter]
+git = "git://github.com/benaryorg/rust-prime_iter.git"
+
